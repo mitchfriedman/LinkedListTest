@@ -1,0 +1,28 @@
+Mitchell Friedman      0828745
+CIS 2500               A4
+
+*****************
+compiling the program
+*****************
+To compile the list test program:
+    - Navigate to the A3 directory and type make test
+To compile the music playlist program:
+    - Navigate to the A3 directory and type make music
+
+
+*****************
+running the program
+*****************
+
+- To run the list test program type: bin/listTest after compiling
+
+- To run the music playlist program type bin/music after compiling and make sure to give an agument that is the location of the text file that holds the playlist information
+
+
+*****************
+known limitations
+*****************
+- the playlist file must not be empty
+- the head of the list must be initalized in order to perform operations on it
+
+
